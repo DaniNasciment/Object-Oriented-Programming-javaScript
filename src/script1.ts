@@ -19,7 +19,7 @@ const nome = cliente.nome = 'Sandro';
 const email = cliente.email = 'sandrovalim@hotmail.com';
 const numeroCadastro = cliente.numeroCadastro = 4567;
 
-console.log(`-Novo Cliente`);
+console.log(`-Novo Cliente-`);
 console.log(`Nome do cliente é ${cliente.nome}`);
 console.log(`E-mail de cadastro é ${cliente.email}`);
 console.log(`Numero do cadastro do cliente é ${cliente.numeroCadastro}`);
